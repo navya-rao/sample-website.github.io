@@ -1,2 +1,3 @@
 # navya-rao.github.io
-personal website to learn more about my work
+personal website to display CV, interests
+
